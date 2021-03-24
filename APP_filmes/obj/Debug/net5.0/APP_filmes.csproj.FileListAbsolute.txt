@@ -1,0 +1,16 @@
+C:\APP_filmes\obj\Debug\net5.0\APP_filmes.csprojAssemblyReference.cache
+C:\APP_filmes\obj\Debug\net5.0\APP_filmes.GeneratedMSBuildEditorConfig.editorconfig
+C:\APP_filmes\obj\Debug\net5.0\APP_filmes.AssemblyInfoInputs.cache
+C:\APP_filmes\obj\Debug\net5.0\APP_filmes.AssemblyInfo.cs
+C:\APP_filmes\obj\Debug\net5.0\APP_filmes.csproj.CoreCompileInputs.cache
+C:\APP_filmes\bin\Debug\net5.0\APP_filmes.exe
+C:\APP_filmes\bin\Debug\net5.0\APP_filmes.deps.json
+C:\APP_filmes\bin\Debug\net5.0\APP_filmes.runtimeconfig.json
+C:\APP_filmes\bin\Debug\net5.0\APP_filmes.runtimeconfig.dev.json
+C:\APP_filmes\bin\Debug\net5.0\APP_filmes.dll
+C:\APP_filmes\bin\Debug\net5.0\ref\APP_filmes.dll
+C:\APP_filmes\bin\Debug\net5.0\APP_filmes.pdb
+C:\APP_filmes\obj\Debug\net5.0\APP_filmes.dll
+C:\APP_filmes\obj\Debug\net5.0\ref\APP_filmes.dll
+C:\APP_filmes\obj\Debug\net5.0\APP_filmes.pdb
+C:\APP_filmes\obj\Debug\net5.0\APP_filmes.genruntimeconfig.cache
